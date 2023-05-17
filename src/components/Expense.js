@@ -184,7 +184,7 @@ const ExpenseTracker = () => {
             className="modal-field"
           />
           <Button variant="contained" onClick={handleSaveEditExpense} className="modal-save-button">
-            Save
+            Saves
           </Button>
         </Box>
       </Modal>
